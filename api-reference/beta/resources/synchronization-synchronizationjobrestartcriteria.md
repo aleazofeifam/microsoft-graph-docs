@@ -33,8 +33,8 @@ The following is a JSON representation of the resource.
 }-->
 
 ```json
-{
-  "resetScope": "String"
+{ 
+    "criteria" : { "resetScope" : "Full" }  
 }
 
 ```
